@@ -65,7 +65,7 @@
 
 - **LinkedIn**: [luiz-gabriel-baron-98999b23b](https://www.linkedin.com/in/luiz-gabriel-baron-98999b23b/)  
 - **GitHub**: [lbaron42](https://github.com/lbaron42)  
-- **Email**: [email protected]
+- **Email**: luizbaron@hotmail.com
 
 I’m always happy to connect with fellow **developers, drone enthusiasts, or performers**! Reach out if you’d like to collaborate or just say hi!
 

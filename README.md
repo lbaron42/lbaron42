@@ -51,7 +51,7 @@
    - Simple HTTP server in C++ emphasizing performance and minimal memory usage.
    
 2. **[FT_TRANSCENDENCE](https://github.com/lbaron42/FT_TRANSCENDENCE)**  
-   - Final 42 Project: Full-stack web application (TypeScript, NestJS, React) with real-time chat and game features.
+   - Final 42 Project: Full-stack web application (Python, JavaScript, Three.js) with real-time game play and 3D features.
 
 3. **[pipexcolab](https://github.com/lbaron42/pipexcolab)**  
    - A collaborative approach to Unix pipe and I/O redirection in C.
